@@ -1,0 +1,6 @@
+100 Particles = 5.14017 ms
+300 Particles = 20.6967 ms
+500 Particles = 32.7902 ms
+1000 Particles = 70.6547 ms
+5000 Particles =  268.474 ms Limit
+10000 Particles  = 569.999 ms
